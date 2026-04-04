@@ -11,14 +11,14 @@
 🎓 Estudiante de Ingeniería en Informática en el ITLA  
 💡 Apasionado por el desarrollo de software y la tecnología  
 🌐 Desarrollo aplicaciones web modernas y escalables  
-☁️ Actualmente enfocado en AWS Cloud  
+☁️ Actualmente enfocado en AWS Cloud y despliegue de aplicaciones en la nube  
 
 ---
 
 ## 🛠️ Tecnologías
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,postgres,html,css,git,aws" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,postgres,html,css,git" />
 </p>
 
 ---
@@ -47,8 +47,9 @@ Aplicación en Angular con consumo de API
 ## 📊 Estadísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PabloDJesus7Ca&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDJesus7Ca&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=PabloDJesus7Ca&show_icons=true&theme=default&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDJesus7Ca&layout=compact&theme=default&cache_seconds=1800" />
 </p>
 
 ---
