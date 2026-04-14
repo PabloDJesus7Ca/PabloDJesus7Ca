@@ -30,6 +30,8 @@ Aplicación con Angular + Node.js + PostgreSQL
 ✔ API REST  
 ✔ Arquitectura cliente-servidor  
 
+
+
 🔹 **Pokédex Web**  
 Aplicación en Angular con consumo de API  
 ✔ Autenticación  
