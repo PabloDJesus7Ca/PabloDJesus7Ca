@@ -17,9 +17,13 @@
 
 ## 🛠️ Tecnologías
 
+
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,postman,docker,postgres,html,css,git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,postman,docker,nginx,postgres,html,css,git&perline=6" />
+  </a>
 </p>
+
 
 ---
 
