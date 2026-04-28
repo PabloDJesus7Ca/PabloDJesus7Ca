@@ -34,7 +34,7 @@ Aplicación fullstack desplegada en producción en AWS EC2.
 - ✅ Desplegado en AWS EC2 con IP Elástica
 - ✅ HTTPS con certificado SSL (Let's Encrypt)
 - 🌐 **Demo en vivo:** https://canariopablo.me
-- 📁 **Repositorio:** [github.com/DevPabloCaseJsX/User-Management](https://github.com/DevPabloCaseJsX/User-Management)
+- 📁 **Repositorio:** [github.com/PabloDjesus7Ca/User-Management](https://github.com/PabloDjesus7Ca/User-Management)
 
 **Stack:** Angular · Node.js · Express · PostgreSQL · Docker · Nginx · AWS EC2
 
