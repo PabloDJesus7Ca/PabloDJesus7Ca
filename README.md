@@ -46,6 +46,7 @@ Aplicación en Angular que consume la PokéAPI en tiempo real.
 - Autenticación y control de acceso por roles
 - Protección de rutas con Guards
 - Manejo de errores y página 404 personalizada
+- Containerizado con Docker
 
 **Stack:** Angular · TypeScript · HTML · CSS
 
