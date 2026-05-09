@@ -4,7 +4,7 @@
 ---
 
 ## Sobre mí
-- 🎓 Estudiante de Tecnólogo en Desarrollo de Software en ITLA (6to cuatrimestre)
+- 🎓 Estudiante de Tecnólogo en Desarrollo de Software en ITLA (7to cuatrimestre)
 - 🚀 Desarrollo aplicaciones web fullstack modernas y escalables
 - ☁️ Especializándome en AWS Cloud y despliegue de aplicaciones en producción
 - 🐳 Experiencia en containerización con Docker y orquestación con Docker Compose
